@@ -1,6 +1,3 @@
-// Jack Splaine
-// Assignment 2
-
 template <typename T>
 List < T >::const_iterator::const_iterator()
 {
