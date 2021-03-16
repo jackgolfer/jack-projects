@@ -1,6 +1,6 @@
 # **jack_projects**
 
-This is a collection of various different files that demonstrate diffent programs written by me, Jack. 
+** This is a collection of various different files that demonstrate diffent programs written by me, Jack. **
 
 [bash_shell_simulator.cpp](https://github.com/jackgolfer/jack_projects/blob/main/bash_shell_simulator.cpp) - this program simulates the running of a bash shell on a Unix machine. It uses system calls as well as process creation and manipulation to achive this.
 
