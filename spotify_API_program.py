@@ -9,8 +9,8 @@ import json
 ''' shows the albums and tracks for a given artist.
 '''
 #keys used by the spotify API for authentication
-os.environ["SPOTIPY_CLIENT_ID"] = "0fba21663641452ca01057225b46097e"
-os.environ["SPOTIPY_CLIENT_SECRET"] = "0e8f1eac53d54d51ab8621ecdfea378c"
+os.environ["SPOTIPY_CLIENT_ID"] = "NULL"
+os.environ["SPOTIPY_CLIENT_SECRET"] = "NULL"
 
 
 def spotify_results(name):
