@@ -14,7 +14,7 @@
 
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Jack & Austin");
+MODULE_AUTHOR("Jack");
 MODULE_DESCRIPTION("Operates an Elevator");
 MODULE_VERSION("0.01");
 
