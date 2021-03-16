@@ -1,11 +1,3 @@
-/* Name: Jack Splaine 
-Date: 12/5/19
-Section: 7
-Assignment: #6
-Due Date: 12/6/19
-
-All work below was performed by Jack Splaine */
-
 #include <iostream>
 #include <string>
 #include <map>
