@@ -1,4 +1,4 @@
-# **jack_projects**
+# **jack-projects**
 
 ### **This is a collection of various programs that demonstrate code written by me, Jack. These files are not for reproduction or use. They are intended to be a sample of completed work.**
 #
