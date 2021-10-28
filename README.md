@@ -3,6 +3,8 @@
 ### **This is a collection of various programs that demonstrate code written by me, Jack. These files are not for reproduction or use. They are intended to be a sample of completed work.**
 #
 
+[channel_coding.py](https://github.com/jackgolfer/jack_projects/blob/main/channel_coding.py) - This program is an implementation of the Viterbi algorithm for both hard and soft decoding. This program decodes incoming samples with cost calculations to detirmine the most probable outputs. These outputs are then used to find the start of packets.
+
 [bash_shell_simulator.cpp](https://github.com/jackgolfer/jack_projects/blob/main/bash_shell_simulator.cpp) - This program simulates the running of a bash shell on a Unix machine. It uses system calls as well as process creation and manipulation to achive this.
 
 [bpsk.py](https://github.com/jackgolfer/jack_projects/blob/main/bpsk.py) - This Program has to do with recieving BKSP wireless signals. It takes in a set of samples, uses those samples to adjust the amount the sample must be rotated by, and use this to decipher the incoming bits to locate packets.
